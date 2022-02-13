@@ -1,3 +1,6 @@
-|Date|Title|Runtime|Memory|Language|Link|Remark|
-|:-|:-|:-|:-|:-|:-|:-|
-|20210414|Two Sum|4ms|3.2MB|golang| [<img src="imgs/business.png" style="width:100%;">](https://github.com/junminhong/Everday_LeetCode/tree/master/Code/2020/04/18)  |可在微調演算法|
+| Level  | Title                                   | Runtime | Memory | Language | Link                                                                                                         | 備註  |
+|:-------|:----------------------------------------|:--------|:-------|:---------|:-------------------------------------------------------------------------------------------------------------|:----|
+| Easy   | 1. Two Sum                              | 4ms     | 3.2MB  | golang   | [<img src="imgs/business.png" style="width:%;">](https://github.com/junminhong/leetcode/tree/master/easy/1)  | 無   |
+| Easy   | 26. Remove Duplicates from Sorted Array | 0ms     | 4.4MB  | golang   | [<img src="imgs/business.png" style="width:%;">](https://github.com/junminhong/leetcode/tree/master/easy/26) | 無   |
+| Easy   | 14. Longest Common Prefix               | 0ms     | 5.4MB  | golang   | [<img src="imgs/business.png" style="width:%;">](https://github.com/junminhong/leetcode/tree/master/easy/14) | 無   |
+| Hard   | 4. Median of Two Sorted Arrays          | 12ms    | 5.6MB  | golang   | [<img src="imgs/business.png" style="width:%;">](https://github.com/junminhong/leetcode/tree/master/hard/4)  | 無   |
